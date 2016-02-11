@@ -1,0 +1,108 @@
+*{
+	font-family: sans-serif;
+}
+.tam{
+	width: 100%;
+	height:900px;
+	position: absolute;
+	margin-left: 0px;
+}
+header{
+	padding: 0px ;
+	margin: 0;
+}
+.back{
+	background-image: url("C:/Users/Alumna/Desktop/NayeliCarbajal/Chicama/img/grupal.jpg");
+	background-size: 100%;
+	width: 100%;
+	height:700px;
+	padding: 
+}
+#logo{
+	width: 250px;
+	height: 50px;
+	margin-top: 50px;
+	margin-left: 350px;
+	position: absolute;
+}
+
+nav ul{
+	position: relative;
+	list-style-type: none;
+	margin-bottom:60px;
+	float: right;
+	font-size: 14px;
+	line-height: 20px;
+	text-decoration: none;
+}
+nav li{
+	position: relative;
+	float: left;
+	margin-top: 30px;
+	padding: 0;
+}
+nav a{
+	position: relative;
+	margin-bottom: 50px;
+	text-decoration: none;
+	padding: 10px 15px;
+	color: black;
+	text-shadow: 2px 2px 4px #FF8000;
+}
+button{
+	
+    background: #FFBF00;
+    width: 200px;
+    height: 70px;
+    font-size: 20px;
+  	margin-left: 130px;
+  	margin-top: 60px;
+    position: absolute;
+}
+.tamUno{
+	width: 210px;
+	height: 180px;
+	margin-left: 30px;
+	margin-right: 30px;
+	margin-top: 30px;
+	margin-bottom: 0px;
+	padding-top: 30px;
+
+}
+.p1{
+	font-size: 10px;
+	margin-left: 30px;
+	margin-right: 40px;
+	border-bottom:1px solid black;
+}
+.bot{
+	margin-bottom: 50px;
+}
+footer{
+	background: #151515;
+	color:white;
+
+}
+.foot{
+	color: white;
+	text-shadow:none;
+	float: left;
+	margin-left: 300px;
+	
+}
+.li1{
+	border-right: 1px solid white;
+	margin-right: 10px;
+	padding-right: 10px;
+}
+.skype{
+	width: 25px;
+	height: 20px;
+	position: absolute;
+}
+.a1{
+	color: blue;
+	background: none;
+	text-shadow: none;
+	margin-left: 10px;
+}
